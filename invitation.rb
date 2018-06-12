@@ -7,7 +7,7 @@ guest_name = gets.chomp.capitalize
 
 puts "Which party are you attending today?"
 
-party_name = gets.chomp.capitalize
+party_name = gets.chomp
 
 puts "Which date is the party?"
 
