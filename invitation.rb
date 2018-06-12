@@ -19,4 +19,4 @@ time = gets.chomp
 
 puts "Who's your host?"
 
-host_name = gets.chomp.capitalize 
+host_name = gets.chomp
