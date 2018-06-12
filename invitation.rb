@@ -15,7 +15,7 @@ date = gets.chomp
 
 puts "What time is the party?"
 
-times = gets.chomp
+time = gets.chomp
 
 puts "Who's your host?"
 
